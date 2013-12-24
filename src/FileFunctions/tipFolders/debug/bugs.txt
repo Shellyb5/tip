@@ -13,7 +13,7 @@ Computers make very fast, very accurate mistakes
 ^ 
 If it works, leave it alone — there's no need to understand it. 
 If it fails, try to fix it — there's no time to understand it.
-~Bill Pfeifer. 
+— Bill Pfeifer. 
 ^ 
 It's not that I'm surrounded by incompetence that bothers me, it's that I fit in so well.
 ^ 
@@ -29,7 +29,7 @@ We just suffer — and keep pouring our sewage into our water supply.
 The best thing about a boolean is even if you are wrong, you are only off by a bit.
 ^ 
 Would you rather Test-First, or Debug-Later?
-~Robert Martin. 
+— Robert Martin. 
 ^ 
 Don't worry, we have plenty of time to get the Nuclear Missile Launch program Y2K compliant, besides, I always code better after a few drinks.
 ^ 
@@ -38,7 +38,7 @@ Life would be so much easier if we only had the source code.
 Who is this 'General Failure' and why is he reading my disk?
 ^ 
 Programmers and old people have a lot in common. We're both always looking for ways to control leaks and dumps.
-~Ralf. 
+— Ralf. 
 ^ 
 It is easier to change the specification to fit the program than vice versa.
 ^ 
@@ -53,16 +53,16 @@ Cannot delete tmp150---3.tmp: There is not enough free disk space.
 Delete one or more files to free disk space, and then try again.
 ^ 
 When all else fails, read the instructions.
-~L. Iasellio. 
+— L. Iasellio. 
 ^ 
 Computer system analysis is like child-rearing; you can do grievous damage, but you cannot ensure success.
-~Tom DeMarco. 
+— Tom DeMarco. 
 ^ 
 The memory management on the PowerPC can be used to frighten small children.
-~Linus Torvalds. 
+— Linus Torvalds. 
 ^ 
 When in doubt, use brute force.
-~Ken Thompson. 
+— Ken Thompson. 
 ^ 
 If brute force doesn't solve your problems, then you aren't using enough.
 ^ 
@@ -72,34 +72,34 @@ Evolution is God's way of issuing upgrades.
 ^ 
 It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. 
 Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter. 
-~Nathaniel Borenstein. 
+— Nathaniel Borenstein. 
 ^ 
 That's the thing about people who think they hate computers. What they really hate is lousy programmers.
-~Larry Niven. 
+— Larry Niven. 
 ^ 
 Each new user of a new system uncovers a new class of bugs.
-~Kernighan. 
+— Kernighan. 
 ^ 
 Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-~Martin Golding. 
+— Martin Golding. 
 ^ 
 Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.
-~Christopher Thompson. 
+— Christopher Thompson. 
 ^ 
 There are two ways of constructing a software design. 
 One way is to make it so simple that there are obviously no deficiencies. 
 And the other way is to make it so complicated that there are no obvious deficiencies.
-~C.A.R. Hoare. 
+— C.A.R. Hoare. 
 ^ 
 Q: How can you tell an extroverted computer geek from an introverted computer geek ?
 A: The introverted computer geek will look at his shoes while he talks to you. The extroverted computer geek will look at your shoes while he talks to you.
 ^ 
 To work on a program with the compiler in debug mode and then to sell it compiling it without the debug option is like learning to swim with floaters and then taking them off to swim across the Atlantic.
-~My C professor. 
+— My C professor. 
 ^ 
 It's a little-known fact that the Y1K problem caused the Dark Ages.
 ^ 
 As an ultimate incentive to solve the millennium bug computer problem, China has ordered its airline executives to take a flight on January 1, 2000.
-~The Financial Times. 
+— The Financial Times. 
 ^ 
 It's 11:59 on December 31 1999. In two minutes time, are you gonna be glad you don't have a bank account?
